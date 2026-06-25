@@ -7,3 +7,7 @@ rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: 3L-XFRwAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+- name: Twitter
+  link: https://twitter.com
+  icon: fa-brands fa-x-twitter
+  enabled: true

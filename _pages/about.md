@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Master Student in CS, University of Information Technology (UIT)</a>
+subtitle: <a href='#'>MSc Student in CS, University of Information Technology (UIT)</a>
 
 profile:
   align: right
